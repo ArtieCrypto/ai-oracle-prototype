@@ -26,6 +26,17 @@ Ultimately, this system envisions a world where users can tap into algorithmic i
 
 Long-term, this design could support custodial integrations, embedded finance partnerships, and interfaces that feel as intuitive as modern fintech apps — laying the foundation for a new class of user-centric digital asset infrastructure.
 
+## 🔍 Roadmap
+This roadmap reflects the evolution of a modular, AI-integrated crypto allocation platform focused on:
+
+- Lowering barriers to crypto-native yield strategies for non-technical users  
+- Bridging AI-generated insights with secure, on-chain execution  
+- Designing infrastructure that abstracts complexity while retaining composability  
+- Exploring integrations with custodial and embedded finance platforms  
+- Enabling intuitive, scalable access to decentralized returns
+
+
+
 ## 🧠 AI Signal Engine
 
 Located in the [`ai/`](./ai) folder:
