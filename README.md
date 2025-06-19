@@ -63,6 +63,7 @@ Located in the [`contracts/`](./contracts) folder:
 - Includes example compressed VAA interactions and argument handling for constructor inputs
 
 ## 🧱 Architecture
+![System Architecture](./docs/architecture-diagram.png)
 
 ![Architecture Diagram](./docs/architecture-diagram.png)
 
