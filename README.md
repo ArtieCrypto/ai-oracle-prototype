@@ -35,6 +35,9 @@ This roadmap reflects the evolution of a modular, AI-integrated crypto allocatio
 - Exploring integrations with custodial and embedded finance platforms  
 - Enabling intuitive, scalable access to decentralized returns
 
+- 📋 View full development roadmap in the [GitHub Project Board](https://github.com/your-username/your-repo-name/projects/1)
+
+
 
 
 ## 🧠 AI Signal Engine
