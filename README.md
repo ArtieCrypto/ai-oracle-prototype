@@ -37,7 +37,8 @@ This roadmap reflects the evolution of a modular, AI-integrated crypto allocatio
 
 
 
-📋 View full development roadmap in the [GitHub Project Board](https://github.com/artiecrypto/ai-oracle-prototype/projects/1)
+📋 View full development roadmap in the [GitHub Project Board](https://github.com/users/artiecrypto/projects/1)
+
 
 
 
