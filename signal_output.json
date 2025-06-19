@@ -1,0 +1,22 @@
+{
+  "timestamp": 1750329701,
+  "macroAllocation": {
+    "equities": 0.46,
+    "cash": 0.22,
+    "crypto": 0.32
+  },
+  "cryptoStrategy": {
+    "cryptoAllocation": {
+      "BTC": 0.43,
+      "ETH": 0.49,
+      "SOL": 0.08
+    },
+    "YieldFarming": {
+      "strategy": "ETH-stETH LP on Curve",
+      "expectedAPR": "5.22%",
+      "platform": "Yearn"
+    },
+    "confidence": 0.79,
+    "commentary": "Elevated ETH staking flows and stable yields from stETH pools"
+  }
+}
