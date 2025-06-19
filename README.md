@@ -1,6 +1,3 @@
-# ai-oracle-prototype
-Integrating off-chain AI signals with on-chain data using Pyth oracles
-
 # AI Oracle Signal Prototype
 
 This project demonstrates a modular integration between off-chain AI signals and on-chain smart contract logic using oracle infrastructure. It showcases a hybrid architecture for intelligent, cross-domain asset allocation strategies.
@@ -11,6 +8,23 @@ This project demonstrates a modular integration between off-chain AI signals and
 - **On-chain smart contract** for receiving and routing payloads  
 - **Oracle interoperability** using mock VAA and real-time price feeds  
 - **Professional packaging** for GitHub presentation
+
+- 🌐**Vision**
+This platform is designed to bridge the gap between traditional investors and the evolving crypto economy. Its core goal is to make AI-informed crypto allocation and yield strategies accessible to non-technical, non–crypto-native users.
+
+While crypto ETFs and custodial products are creating more exposure pathways for traditional investors, they often stop short of unlocking the true depth of strategy available within decentralized finance. This prototype goes further by:
+
+Automating decision-making based on AI-generated signals
+
+Surfacing more sophisticated opportunities such as dynamic rebalancing, staking, and LP yield harvesting
+
+Reducing friction by abstracting wallet infrastructure and on-chain interactions
+
+Empowering users with risk-aware, programmatic access to crypto-native return streams — no DeFi fluency required
+
+Ultimately, this system envisions a world where users can tap into algorithmic intelligence to activate high-quality crypto strategies, without needing to understand the protocols underneath. AI becomes the trusted allocator. Oracles verify signal integrity. Smart contracts encode execution.
+
+Long-term, this design could support custodial integrations, embedded finance partnerships, and interfaces that feel as intuitive as modern fintech apps — laying the foundation for a new class of user-centric digital asset infrastructure.
 
 ## 🧠 AI Signal Engine
 
