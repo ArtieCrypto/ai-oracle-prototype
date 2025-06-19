@@ -9,7 +9,7 @@ This project demonstrates a modular integration between off-chain AI signals and
 - **Oracle interoperability** using mock VAA and real-time price feeds  
 - **Professional packaging** for GitHub presentation
 
-- 🌐**Vision**
+## 🔍 Vision
 This platform is designed to bridge the gap between traditional investors and the evolving crypto economy. Its core goal is to make AI-informed crypto allocation and yield strategies accessible to non-technical, non–crypto-native users.
 
 While crypto ETFs and custodial products are creating more exposure pathways for traditional investors, they often stop short of unlocking the true depth of strategy available within decentralized finance. This prototype goes further by:
