@@ -26,6 +26,11 @@ Ultimately, this system envisions a world where users can tap into algorithmic i
 
 Long-term, this design could support custodial integrations, embedded finance partnerships, and interfaces that feel as intuitive as modern fintech apps — laying the foundation for a new class of user-centric digital asset infrastructure.
 
+### System Architecture
+The diagram below illustrates the core data flow from signal generation to smart contract execution:
+![System Architecture](docs/architecture-diagram.png)
+
+
 ## 🔍 Roadmap
 This roadmap reflects the evolution of a modular, AI-integrated crypto allocation platform focused on:
 
