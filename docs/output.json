@@ -1,0 +1,11 @@
+{
+  "signal_id": "eth-defi-rotation-2025-Q3",
+  "timestamp": "2025-06-19T18:45:00Z",
+  "target_assets": ["ETH", "ARB", "GMX"],
+  "strategy": "Momentum Rotation",
+  "confidence_score": 0.87,
+  "rationale": "Bullish reversal in L2 ecosystems with breakout volume across mid-cap DeFi protocols.",
+  "risk_score": 0.35,
+  "oracle_ready": true,
+  "payload_format": "base64-encoded"
+}
